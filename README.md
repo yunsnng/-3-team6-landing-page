@@ -27,30 +27,3 @@ Our team project and interactive landing page
 | 팀원 2 | 디자인 |
 | 팀원 3 | Frontend |
 | 팀원 4 | Content |
-
-## ✨ Key Features
-
-- 강렬한 Hero Section
-- 팀원 소개
-- 프로젝트 소개
-- 스크롤 애니메이션
-- 마우스 인터랙션
-- 반응형 디자인
-- 재미있는 Easter Egg
-
-## 🛠 Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-- GitHub
-- GitHub Pages
-
-## 📁 Project Structure
-
-```text
-team-landing-page/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
